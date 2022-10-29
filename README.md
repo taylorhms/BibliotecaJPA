@@ -189,3 +189,9 @@ Este arquivo contém as definições para conexão com o banco usando JPA.
 Conjunto de códigos SQL para inicialização das tabelas no banco de dados h2.
 
 _**Atenção**: Este arquivo está incompleto e pode conter erros._
+
+## Classe Biblioteca
+
+Classe executável utilizada para inserir, remover, alterar e consultar o banco de dados via linha de comando.
+
+_**Atenção**: Esta classe está incompleta e contém inconsistencias._
